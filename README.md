@@ -1,4 +1,14 @@
 android-cli-scratch
 ===================
 
-Android Comand Line Scratch
+Android Command Line Scratch
+
+
+## Commands
+
+     make build
+     make create-project
+     make install-run
+     make install-sdk
+     make log
+     make update-project
